@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 this is my second file
+=======
+My name is kishan jani.
+krjani is the best boy.
+>>>>>>> jani
